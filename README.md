@@ -1,4 +1,4 @@
 # commerce
 this is my first repo
 <br>
-Author Name -> Nikhil Shrivastav
+Author Name -> Nikhil Shrivastav (web developer)
